@@ -10,6 +10,7 @@ using namespace std;
 
 int main(){
     Code By Shubh
+    cout<<"hi";
     
     return 0;
 }
